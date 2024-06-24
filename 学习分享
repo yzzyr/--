@@ -1,0 +1,76 @@
+# **补充**
+
+## **并查集**
+### 理解
+1. https://leetcode.cn/circle/discuss/IVTJxZ/
+以前我不懂并查集，直到看了古惑仔...
+2. http://t.csdnimg.cn/vQeiu
+并查集中各函数的意义，路径压缩的两个途径
+
+## **单调栈**
+### 理解
+https://leetcode.cn/circle/discuss/KMjtw4/
+概念、用途、代码模板以及例题讲解
+
+### 学习视频
+https://www.bilibili.com/video/BV1VN411J7S7/
+
+### 题单
+https://leetcode.cn/circle/discuss/9oZFK9/
+全面且清晰的题单，由易到难，逐渐贯通单调栈，附有学习视频，先看完再练习效果更好
+
+## **动态规划**
+### 题单
+https://leetcode.cn/circle/discuss/tXLS3i/
+从入门到高手，【动态规划入门：从记忆化搜索到递推】 https://www.bilibili.com/video/BV1Xj411K7oF/?share_source=copy_web&vd_source=ff40eba86fb6e6725bb590784a7695eb
+
+**大杂烩**
+https://leetcode.cn/circle/discuss/mOr1u6/
+包含栈、队列、堆、字典树、并查集、树状数组、线段树等。
+
+## **树**
+### 理解
+http://t.csdnimg.cn/llJWR
+
+### 二叉搜索树
+http://t.csdnimg.cn/YoXWm
+概念、实现、插入或删除元素
+
+### 哈夫曼树
+http://t.csdnimg.cn/SEkNe
+哈夫曼树和哈夫曼编码
+
+## **图论**
+### 题单
+https://leetcode.cn/circle/discuss/01LUak/
+包括DFS、BFS、拓扑排序、最短路、最小生成树等
+个人觉得每日选做中的题目或许更实用
+**图论相关的模板题、变通题在上面这个题单中能找到大部分**
+
+### DFS/BFS
+概念和相关：http://t.csdnimg.cn/gkStr
+DFS与回溯：https://leetcode.cn/circle/discuss/sZEj8D/
+
+### 拓扑排序
+1. http://t.csdnimg.cn/HbU60
+思想+图解+模板+练习题
+2. https://leetcode.cn/circle/discuss/RiCTn6/
+理解，看了就会
+
+### 最短路径
+1. https://leetcode.cn/circle/discuss/6O5JRt/
+详解，从bfs到dijkstra，floyd
+2. http://t.csdnimg.cn/y6uFs
+图示讲解dijkstra
+
+### 最小生成树
+1. http://t.csdnimg.cn/DgWJi
+详解，模板+例题
+2. https://leetcode.cn/circle/discuss/3HR7QC/
+介绍，包括并查集
+
+## **十大排序**
+1. https://leetcode.cn/circle/discuss/eBo9UB/
+十大排序，从入门到入赘
+2. http://t.csdnimg.cn/3RPbu
+python实现，代码+注释
